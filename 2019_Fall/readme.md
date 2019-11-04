@@ -72,7 +72,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Kodira, Chengappa (@cukodira - test 10.24)
 
-- [X] Lampka, Silke (@slampka)
+- [S] Lampka, Silke (@slampka)
 
 - [X] Larson, Thomas (@thomaslarson7)
 
